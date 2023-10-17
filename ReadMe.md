@@ -67,7 +67,7 @@ https://localhost:5001/remote
 
 ## Video Funcionamiento AWS
     
-- [Video](https://youtu.be/7QP3Edgnqvo)
+- [Video]()
 
 # Built With
 
